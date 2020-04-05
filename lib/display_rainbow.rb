@@ -1,13 +1,10 @@
 # Write your #display_rainbow method here
-def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  puts "R: #{display_rainbow[0]}"
-  puts "O: #{display_rainbow[1]}"
-  puts "Y: #{display_rainbow[2]}"
-  puts "G: #{display_rainbow[3]}"
-  puts "B: #{display_rainbow[4]}"
-  puts "I: #{display_rainbow[5]}"
-  puts "V: #{display_rainbow[6]}"
+def array(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+  puts "R: #{array[0]}"
+  puts "O: #{array[1]}"
+  puts "Y: #{array[2]}"
+  puts "G: #{array[3]}"
+  puts "B: #{array[4]}"
+  puts "I: #{array[5]}"
+  puts "V: #{array[6]}"
 end
-
-
-display_rainbow
