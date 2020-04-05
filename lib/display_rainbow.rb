@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def array (['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+def array 
   puts "R: #{array[0]}"
   puts "O: #{array[1]}"
   puts "Y: #{array[2]}"
