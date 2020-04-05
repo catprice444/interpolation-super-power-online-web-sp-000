@@ -2,7 +2,7 @@
 array = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 
-def color(array)
+def display_rainbow(array)
   puts "R: #{array[0]}"
   puts "O: #{array[1]}"
   puts "Y: #{array[2]}"
